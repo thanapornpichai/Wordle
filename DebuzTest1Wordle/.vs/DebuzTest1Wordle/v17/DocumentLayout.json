@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DebuzTest1Wordle\\DebuzTest1Wordle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F9078E-E728-F94F-7FC5-021B01C02667}|Assembly-CSharp.csproj|d:\\debuztest1wordle\\debuztest1wordle\\assets\\scripts\\wordle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F9078E-E728-F94F-7FC5-021B01C02667}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wordle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wordle.cs",
+              "DocumentMoniker": "D:\\DebuzTest1Wordle\\DebuzTest1Wordle\\Assets\\Scripts\\Wordle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wordle.cs",
+              "ToolTip": "D:\\DebuzTest1Wordle\\DebuzTest1Wordle\\Assets\\Scripts\\Wordle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wordle.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:03:27.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
